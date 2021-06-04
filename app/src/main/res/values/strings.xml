@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">FitSho</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <dimen name="sizetext">18dp</dimen>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#76828F</color>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="calories_person" translatable="false">calories_person</string>
+    <string name="distance_person" translatable="false">distance_person</string>
+    <string name="stepcout" translatable="false">step_count</string>
+    <string name="steps" translatable="false"><![CDATA[تعداد قدم های شما ->]]></string>
+    <string name="step2">  تعداد قدم های شما</string>
+
+
+</resources>

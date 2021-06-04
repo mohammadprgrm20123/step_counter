@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_mobile"
+    app:startDestination="@id/today_Fgagment">
+
+    <fragment
+        android:id="@+id/today_Fgagment"
+        android:name="com.example.fitsho.Fragments.StepCounterfragment"
+        android:label="fragment_today__fgagment"
+        tools:layout="@layout/fragment_today__fgagment" />
+    <fragment
+        android:id="@+id/refport_Fragments"
+        android:name="com.example.fitsho.Fragments.Refport_Fragments"
+        android:label="fragment_refport__fragments"
+        tools:layout="@layout/fragment_refport__fragments" />
+</navigation>

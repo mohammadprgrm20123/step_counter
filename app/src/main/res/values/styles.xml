@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="navigation"
+        parent="Widget.Design.BottomNavigationView">
+        <item name="fontFamily">@font/dana_bold</item>
+        <item name="selectableItemBackground">@color/white</item>
+        <item name="android:state_selected">true</item>
+        <item name="colorPrimary">@color/white</item>
+    </style>
+</resources>

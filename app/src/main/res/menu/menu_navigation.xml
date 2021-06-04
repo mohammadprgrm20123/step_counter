@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/today_Fgagment"
+        android:enabled="true"
+        android:icon="@drawable/ic_footprints"
+        android:title="امروز"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/refport_Fragments"
+        android:icon="@drawable/ic_statistics"
+        android:title="گزارش"
+        app:showAsAction="always" />
+
+</menu>
