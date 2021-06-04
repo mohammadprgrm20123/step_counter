@@ -1,6 +1,5 @@
-![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/39572061/120773541-b0337400-c536-11eb-8adf-b23eaf94f786.jpg)
-![Webp net-resizeimage](https://user-images.githubusercontent.com/39572061/120773604-bc1f3600-c536-11eb-971d-7d1d0a1ef737.jpg)
-
+![Screenshot_20210604-124809_FitSho](https://user-images.githubusercontent.com/39572061/120773660-c9d4bb80-c536-11eb-9abb-df1aa973d820.jpg)
+![Uploading Screenshot_20210604-124817_FitSho.jpg…]()
 
 # step_counter
 
