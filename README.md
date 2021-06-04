@@ -1,7 +1,5 @@
-![Webp net-resizeimage](https://user-images.githubusercontent.com/39572061/120773313-7a8e8b00-c536-11eb-8fd0-6b72a2c3b8c2.jpg)
-![screenshot_20210604-124809_fit](https://user-images.githubusercontent.com/39572061/120773317-7a8e8b00-c536-11eb-99ee-ca4e7ff8da37.jpg)
-
-
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/39572061/120773541-b0337400-c536-11eb-8adf-b23eaf94f786.jpg)
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/39572061/120773559-b32e6480-c536-11eb-9d23-0239de10dfc9.jpg)
 
 
 # step_counter
