@@ -13,10 +13,11 @@ Developed by [https://github.com/mohammadprgrm20123]
 
 ## Items used and observed in this project
 
-- [x] Room
+- [x] Room DataBase
 - [x] Navigation Component
 - [x] work with sensors
 - [x] LiveData
+- [x] App Widget
 
 
 
